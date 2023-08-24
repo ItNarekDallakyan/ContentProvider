@@ -11,7 +11,6 @@ In modern Android app development, data sharing between different components is 
 - Seamless data sharing: Use the Content Provider API to securely share data across different parts of your app, maintaining data integrity and security.
 - CRUD operations: Perform standard Create, Read, Update, and Delete operations on the shared data.
 - Encapsulation: The module encapsulates the complexities of the Content Provider framework, making it easier to integrate and use within your app.
-- Documentation: Comprehensive API documentation guides you through the module's classes, methods, and usage patterns.
 
 ### Installation
 
