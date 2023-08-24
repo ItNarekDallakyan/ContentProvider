@@ -22,4 +22,5 @@ To integrate the Content Provider API Module into your project, follow these ste
     - Select the module directory.
 3. In your app's `build.gradle` file, add the module as a dependency:
    ```gradle
+   
    implementation project(':media')
